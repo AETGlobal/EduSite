@@ -7,7 +7,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
+DESIGNED AND DEVELOPED BY KAZI SAABIQUE AHMED
 <br />
 <p align="center">
   <a href="https://github.com/ivqonsanada/phive">
